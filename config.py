@@ -1,4 +1,4 @@
-FILENAME = "DC228 - 9.875in Liner Tally - Rev0.xlsx"
+FILENAME = "./excel_files/DC228 - 9.875in Liner Tally - Rev0.xlsx"
 
 # Row number for header (e.g. column names)
 HEADER_ROW = 40
