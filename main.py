@@ -1,9 +1,10 @@
 import pandas as pd
 import config
-from .tools import coldict2num, rename_cols
-from .checks import check_tot_len
+from tally_check.tools import coldict2num, rename_cols
+from tally_check.checks import check_tot_len
 
 # from condition import ConditionCheck
+
 
 
 def main():
